@@ -1,0 +1,187 @@
+.navbar-brand {
+	font-family: "Antonio", Serif;
+	padding-left: 20px;
+	color: #F4D8CD;
+}
+
+.nav-item {
+	font-family: "Montserrat", Sans-serif;
+	color: #F4D8CD;
+}
+
+.main-form {
+	width: 500px;
+	margin: auto;
+}
+
+.row {
+	padding-bottom: 20px;
+}
+
+.form-text {
+	padding-bottom: 10px;
+	font-size: 20px;
+	color: #FFFFFF;
+}
+
+.jumbotron {
+	max-width: 100%;
+  	position: relative;
+  	padding: 0px;
+  	margin: 0px;
+  }
+
+.display-pic {
+  	border-radius: 50%;
+  	filter: grayscale(0%);
+  	align-items: left;
+  	position: relative;
+}
+
+.heading {
+	font-family: "Antonio", Serif;
+	font-size-adjust: auto;
+	position: relative;
+	text-align: left;
+	padding: 0px;
+	margin: 0px;
+	top: 20%;
+}
+
+.bio-title {
+	font-family: "Antonio", Serif;
+	color: white;
+	margin: 0;
+}
+
+.pdetitle {
+	font-family: "Montserrat";
+}
+
+.about-me {
+	font-family: "Antonio", Serif;
+	text-align: center;
+	padding-bottom: 30px;
+}
+
+.bio {
+	font-family: "Montserrat", Sans-serif;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	padding-left: 75px;
+	padding-right: 75px;
+	background-color: #EDB183;
+	color: #2D2135;
+	font-size: 22px;
+}
+
+.portfolio {
+	font-family: "Antonio", Serif;
+	text-align: center;
+	padding-top: 20px;
+	background-color: #F15152;
+	color: #F4D8CD;
+	max-width: 100%;
+}
+
+.carousel-item {
+	background-color: #F15152;
+	height: 600px;
+}
+
+.work-title {
+	padding-top: 20px;
+	font-family: "Antonio", Serif;
+	background-color: #1E555C;
+	color: #F4D8CD;
+	text-align: center;
+}
+
+.defproc-title {
+	text-align: right;
+	padding-right: 180px;
+	font-size: 18px;
+}
+
+.jobdescrip {
+	text-align: right;
+	padding-right: 80px;
+	font-size: 18px;
+	font-family: "Montserrat";
+}
+
+.education-title {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	font-family: "Antonio", Serif;
+	background-color: #3A2E39;
+	color: #FFFFFF;
+	text-align: center;
+}
+
+.ljmu-edu {
+	text-align: right;
+	padding-right: 80px;
+	font-size: 18px;
+	font-family: "Montserrat";
+}
+
+.bh-edu {
+	text-align: right;
+	padding-right: 80px;
+	font-size: 18px;
+	font-family: "Montserrat";
+}
+
+.awards-title {
+	padding-top: 20px;
+	padding-bottom: 50px;
+	font-family: "Antonio", Serif;
+	background-color: #F4D8CD;
+	color: #1E555C;
+	text-align: center;
+	width: 100%;
+	}
+
+.awards-container {
+	width: 100%;
+}
+
+.article-title {
+	padding-top: 50px;
+}
+
+.ggr {
+  border-radius: 50%;
+}
+
+
+.bsmm {
+	border-radius: 25%;
+}
+
+.form-title {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	font-family: "Antonio", Serif;
+	background-color: #F15152;
+	color: #FFFFFF;
+	text-align: center;
+}
+
+.form-intro {
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	color: #FFFFFF;
+	font-family: "Montserrat", Sans-serif;
+}
+
+
+.button {
+	border-radius: 25%;
+}
+
+.submit {
+	text-align: center;
+}
