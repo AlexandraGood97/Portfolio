@@ -2,4 +2,4 @@
 
 Alexandra Good CV and portfolio website
 
-https://alexandragood97.github.io/Portfolio/
+https://b0bot.github.io/Portfolio/
